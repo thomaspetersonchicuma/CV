@@ -1,0 +1,65 @@
+#main{
+	margin-left: 300px;
+}
+
+#header {
+    background-color:#202020;
+    color: white;
+    text-align:center;
+    padding:5px;
+    position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 210px;
+
+}
+
+#nav {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+
+    line-height:30px;
+    background-color:#181818;
+    height:20px;
+    width:1420px;
+    padding:5px 1050px;
+
+}
+
+#section {
+    width:550px;
+    padding:10px;
+    float: left;	 	 
+}
+
+#section1 {
+    width:300px;
+    padding:45px;
+    float: left;	 	 
+}
+
+#section2 {
+    width:350px;
+    padding:25px;
+    clear: both;	 	 
+}
+
+
+
+#footer {
+    background-color:#181818;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;
+   margin-left: 220px;	
+   clear: both; 
+}
+
+.botao{
+	color: #fff;
+	background-color: black;
+	padding: 10px 15px;
+	text-decoration: none;
+}
